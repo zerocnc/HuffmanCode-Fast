@@ -2,10 +2,7 @@
 #include <fstream>
 #include <vector>
 #include <map>
-#include <concurrent_priority_queue.h>
-#include <functional>
 #include <queue>
-#include "priorityQueue.h"
 
 // C++ program to encode and decode a string using 
 // Huffman Coding. 
